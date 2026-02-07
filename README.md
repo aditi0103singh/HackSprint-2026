@@ -137,5 +137,4 @@ Generate insights within minutes
 
 Save time during hackathon development
 
-Designed for fast integration with ML models, dashboards, and RAG systems.
 
